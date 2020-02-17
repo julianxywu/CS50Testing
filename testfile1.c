@@ -4,12 +4,14 @@
 int main()
 {
     printf("Hello!");
-	printf("Hello again! Merge me into master!");
-	printf("Some more for a nice set of commit messages.");
+	  printf("Hello again! This is going to cause some problems for us!");
 
-	for (int i = 0; i < 10; i++)
-	{
-		printf("%d", i);
-		i++;
-	}
+	  printf("Hello again! Merge me into master!");
+	  printf("Some more for a nice set of commit messages.");
+
+	  for (int i = 0; i < 10; i++)
+	  {
+	  	printf("%d", i);
+	  	i++;
+  	}
 }
