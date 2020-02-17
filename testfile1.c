@@ -3,5 +3,6 @@
 
 int main() 
 {
-    print("Hello!");
+    printf("Hello!");
+	printf("Hello again! Merge me into master!");
 }
