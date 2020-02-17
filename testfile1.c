@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() 
+int main()
 {
-    print("Hello!");
+    printf("Hello!");
+	printf("Hello again! This is going to cause some problems for us!");
 }
